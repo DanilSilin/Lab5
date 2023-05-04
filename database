@@ -1,0 +1,1 @@
+[{"id":1,"name":"1","coordinates":{"x":1,"y":1},"creationDate":"2023-05-04T02:19:23.4603207","enginePower":1,"numberOfWheels":1,"type":"DRONE","fuelType":"GASOLINE"},{"id":2,"name":"Bebrik","coordinates":{"x":1,"y":1},"creationDate":"2023-05-04T15:16:02.7097514","enginePower":1,"numberOfWheels":1,"type":"DRONE","fuelType":"GASOLINE"}]
